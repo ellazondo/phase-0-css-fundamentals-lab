@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+h1,
+nav,
+p {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: blanchedalmond;
+}
+
+.realphoto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#details div {
+  text-align: center;
+  float: left;
+  background-color: red;
+  width: 25%;
+}
